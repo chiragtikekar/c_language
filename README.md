@@ -4,4 +4,4 @@
 we can find simple intrest using this program 
 
 ### 2decendingOrder
-This program shows decending order
+This program shows decending order.
